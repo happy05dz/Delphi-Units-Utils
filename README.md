@@ -3,6 +3,7 @@
 A collection of helpful Delphi Units. 
 
 ## Units
+- U_Console.pas
 - U_CSS.pas
 - U_Files.pas
 - U_HTML.pas
@@ -12,6 +13,7 @@ A collection of helpful Delphi Units.
 - U_Registry.pas
 - U_String.pas
 - U_System32CPL.pas
+- U_WINapi.pas
 
 ---
 ## License
